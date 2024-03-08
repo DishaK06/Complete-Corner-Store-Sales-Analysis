@@ -6,6 +6,12 @@
 ## Dashboard Link
 <a href="https://1drv.ms/x/c/e35a325ae2852ea2/ESaM8g97EqxCuXxVFM7UlooBCspe2Zv-AwOKIdT8V03jNg?e=5WRlrP" color="black">View My Dashboard</a>
 
+
+![image](https://github.com/DishaK06/Complete-Corner-Store-Sales-Analysis/assets/90857620/fb833e77-f139-4c01-84e1-7fae3705bf99)
+
+<br>
+<a href="https://onedrive.live.com/edit?id=E35A325AE2852EA2!s0ff28c26127b42acb97c5514ced4968a&resid=E35A325AE2852EA2!s0ff28c26127b42acb97c5514ced4968a&cid=e35a325ae2852ea2&ithint=file%2Cxlsx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9lMzVhMzI1YWUyODUyZWEyL0VTYU04Zzk3RXF4Q3VYeFZGTTdVbG9vQkNzcGUyWnYtQXdPS0lkVDhWMDNqTmc_ZT01V1JsclA&migratedtospo=true&wdo=2" color="black">View Dataset used</a>
+
 ## Motive
 Created a dynamic and interactive Excel Dashboard for the "Complete Corner" Store's Sales Annual Report 2023. The dashboard showcases the most important information and various KPIs, including: 
 Orders vs. Sales by month, 
